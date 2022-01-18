@@ -1,0 +1,20 @@
+body {
+background-color: blueviolet;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+    color: burlywood;
+    font-size: larger;
+    border: ivory;
+
+}
+span, strong, em {
+    background-color: orchid;
+    border-bottom: 11px;
+}
+
+h1 {
+color: lightblue;
+
+}
