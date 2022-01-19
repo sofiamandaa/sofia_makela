@@ -1,0 +1,30 @@
+body{
+background-color: rgb(241, 211, 241);
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: medium;
+color: rgb(12, 12, 114);
+
+}
+
+h1{
+border-bottom: rebeccapurple;
+color: red;
+font-size: 16px;
+text-align: center;
+text-transform: uppercase;
+}
+
+a:link{
+color: red;
+}
+
+a:hover{
+color: blue;
+}
+
+image{
+border: red 1px;
+padding: 10px;
+width: 250px;
+opacity: 0.5;
+}
